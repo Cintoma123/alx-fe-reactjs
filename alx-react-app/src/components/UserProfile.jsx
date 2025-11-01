@@ -1,5 +1,5 @@
-"name=", "Alice", "age=", "25", "bio=", "Loves hiking and photography"
 
+const props = { name: "Alice", age: 25, bio: "Loves hiking and photography" };
 
 
  const UserProfile = (props) => {
