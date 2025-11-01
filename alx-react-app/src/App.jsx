@@ -11,6 +11,7 @@ import Header from './components/Header';
         <MainContent />
         <Footer />
         <UserProfile />
+        <Header />
      </div>
    );
  }
